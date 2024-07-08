@@ -1,3 +1,4 @@
+![image](https://github.com/AbhisekSuman/AbhisekSuman/assets/113520633/240e41e9-abe5-4c97-89ff-d348bf83e304)
 <h1 align="center">Hi 👋, I'm Abhisek Nayak</h1>
 <h3 align="center">A passionate Full stack developer from Bengaluru</h3>
 
