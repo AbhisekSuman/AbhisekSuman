@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, DSA**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **React JS**
 
 - 📫 How to reach me **cv07abhisek@gmail.com**
 
